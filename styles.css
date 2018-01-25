@@ -4,7 +4,6 @@ header {
 }
 
 .box1 {
-    
     width: 200px;
     float: left;
     margin-left: 50px;
@@ -20,8 +19,8 @@ header {
 .header-box {
     background: #eee;
     height: 50px;
-    border:1px black;
     margin-top: 25px;
+
 }
 
 main {
@@ -30,54 +29,53 @@ main {
 
 section{
     width: 75%;
-    border: 1px black;
+    border: 1px black solid;
     margin: 100px auto 0;
     background: black;
-    padding: 1px;
+   
 } 
 
 .section-box1 {
     width: 80%;
-    margin: 5px
+    height: 100px;
 
 }
 
 .section-box2 {
     width:60%;
+    height 100px;
+
+    
 }
     
 
  .white-box {
     background: #eee; 
     margin: 100px auto 0;
-    height: 100px;
-   
+    height: 100px;   
 
 }
 
 .section-box3 {
     width: 70%;
-    margin: 0 auto;
-    
+    margin: 0 auto 100px;
+  
 }
 
 .pill {
      width: 48%;
      display: inline-block;
-     background: white;
      border-radius: 55px;
-     height: 45px;
+     height: 70px;
+     
 }
 
 .right-box{
-    margin-left: 5px;
+    margin-left: 10px;
     
 }
 
-.left-box{
-    margin-right: 20px;
-    
-}
+
 
 
 
